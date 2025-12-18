@@ -123,12 +123,6 @@ export default function App() {
 				</section>
 
 				<footer className="mt-24 mb-8 text-center text-gray-500">
-					<div className="mb-2">
-						Built with <span className="text-pink-500">❤️</span> by{" "}
-						<span className="font-semibold text-gray-700">
-							Sarita
-						</span>
-					</div>
 					<div className="text-xs text-gray-400">
 						Powered by React + Tailwind CSS
 					</div>
